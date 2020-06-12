@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "practice_gulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "main": "index.js",
+  "repository": "https://github.com/realrlgus/practice_gulp.git",
+  "author": "realrlgus <realrlgus@naver.com>",
+  "license": "MIT"
+}

@@ -1,2 +1,3 @@
 # practice_gulp
-practice about gulp
+
+Learn Gulp by building an awesome development environment
